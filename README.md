@@ -45,4 +45,4 @@ To list the local branches
 
     To create new branch 
        Git checkout -b <new branch name>      
- 
+   
