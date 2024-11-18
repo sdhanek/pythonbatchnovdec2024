@@ -1,0 +1,2 @@
+#Python3 has 35 key words 
+Python 2 has 27 key words 
